@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-color: rgba(148, 148, 148, 0.568);
+}
+
+
+.teste{
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.teste .pintadas {
+    color: rgb(255, 255, 0);
+    
+}
+
+.teste .branca{
+    color: white;
+}
+
+.teste2 .pintadas{
+    color: yellow;
+
+}
+
+.teste2 .branca{
+    color: white;
+}
